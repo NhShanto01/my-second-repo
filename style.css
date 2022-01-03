@@ -1,8 +1,17 @@
 p{
     text-align: justify;
-    color: darkblue;
+    color: burlywood;
+    font-family: monospace;    
 }
 h2{
     color: chartreuse;
     text-align: center;
+}
+.bg{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 20px solid mediumturquoise;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 20px;
 }
